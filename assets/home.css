@@ -1,0 +1,28 @@
+.img-container {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.image {
+    background-color: transparent;
+    color: white;
+    object-fit: cover;
+    font-size: 16px;
+    height: 50%;
+    width: 50%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* .text-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    font-size: 2rem;
+    font-weight: 300;
+    color: black;
+    /* backdrop-filter: blur(14px) brightness(80%); */
