@@ -46,6 +46,7 @@ It demonstrates 3 types of filterings:
 Download Trained Datasets
 
 - Download the "Data" folder which contains all the pre-processed and trained datasets from the following link.
+- Extract the folder named "Data" from it
 - Add it to the project's main directory
 - Link to the Data folder : [Link](https://drive.google.com/drive/folders/1PTBJiXeEcpoap6qNUJosgW6SR3RuDkQ2?usp=sharing)
 - The file structure should look like this 
@@ -61,7 +62,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Movie-Recommender
 ```
 
 Install dependencies
