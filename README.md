@@ -49,10 +49,10 @@ Download Trained Datasets
 - Extract the folder named "Data" from it
 - Add it to the project's main directory
 - The path should look like this Movie-Recommender -> Data -> ml-100k folder & other json files as shown
-![Data Folder](https://drive.google.com/uc?export=view&id=1GaA7GcaXIXHwzAZeWQmz5iIONPkYXCI-)
+![Data Folder](https://i.ibb.co/MskDQDT/Data-Folder.png)
 - Link to the Data folder : [Link](https://drive.google.com/drive/folders/1PTBJiXeEcpoap6qNUJosgW6SR3RuDkQ2?usp=sharing)
 - The file structure should look like this 
-![File Structure](https://drive.google.com/uc?export=view&id=1JZfW1f0cWVr-NalV0ZazPdHvZ_NfII2C)
+![File Structure](https://i.ibb.co/D983yfq/file-str.png)
 
 
 Clone the project
