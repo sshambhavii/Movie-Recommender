@@ -89,6 +89,8 @@ A presentation giving detailed information about the app and algorithms used is 
 
 Video demo for the app here : [Link](https://youtu.be/Rg8yRdG-M58)
 
+## Agile Methodology
+![Agile](https://drive.google.com/uc?export=view&id=1jRuEb38b0uNyPIjDRozTXbpTQVJbW1y4)
 
 ## Screenshots
 
